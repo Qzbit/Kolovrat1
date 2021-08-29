@@ -1,0 +1,11 @@
+Model Information:
+* title:	XYZ School - NY marathon - Ice skates
+* source:	https://sketchfab.com/3d-models/xyz-school-ny-marathon-ice-skates-68735e61cfd44ff79755ce7d2d67488f
+* author:	leslava (https://sketchfab.com/leslava)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "XYZ School - NY marathon - Ice skates" (https://sketchfab.com/3d-models/xyz-school-ny-marathon-ice-skates-68735e61cfd44ff79755ce7d2d67488f) by leslava (https://sketchfab.com/leslava) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
